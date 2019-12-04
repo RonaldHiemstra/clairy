@@ -1,0 +1,10 @@
+{
+  "domain": "clairy_sensor",
+  "name": "Clairy",
+  "documentation": "https://github.com/RonaldHiemstra/clairy/blob/master/README.md",
+  "dependencies": [],
+  "codeowners": [
+    "@RonaldHiemstra"
+  ],
+  "requirements": []
+}

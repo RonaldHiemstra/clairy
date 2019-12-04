@@ -1,0 +1,1 @@
+"""The Clairy sensor integration."""
